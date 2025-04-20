@@ -1,7 +1,5 @@
-# Re-generating README_one_pager.md after code reset
 
-readme_one_pager = """
-# 🧠 Web Traffic Classification – ML & Bot Detection
+# 🧠 Web Traffic Classification using ML Human Clicks vs  Bot Clicks Detection
 
 This project simulates, logs, processes, and classifies web traffic into **bot** and **human** using machine learning. It mimics how tools like AdScore detect spam, fraud, and real users.
 
@@ -62,3 +60,5 @@ python3 prepare_dataset.py
 
 # 4. Train & visualize models
 python3 train_models.py
+
+
