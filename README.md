@@ -1,5 +1,5 @@
 
-# 🧠 Web Traffic Classification using ML Human Clicks vs  Bot Clicks Detection
+# 🧠 Web Traffic Classification using ML - Human Clicks vs  Bot Clicks Detection
 
 This project simulates, logs, processes, and classifies web traffic into **bot** and **human** using machine learning. It mimics how tools like AdScore detect spam, fraud, and real users.
 
